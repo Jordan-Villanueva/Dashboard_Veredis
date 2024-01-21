@@ -1,4 +1,7 @@
-numpy==1.21.0
-plotly==5.3.1
-dash==2.0.0
 voila
+pandas
+seaborn
+matplotlib
+plotly
+dash
+# Add any other dependencies your notebook needs
